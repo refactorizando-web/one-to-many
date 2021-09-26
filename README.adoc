@@ -1,0 +1,24 @@
+= OneToMany example with Hibernate
+{localdatetime}
+:toc:
+:doctype: book
+:docinfo:
+
+
+== Introduction
+This is a simple example about the use of the OneToMany annotation. In this example you can see two different approaches:
+
+* a unidirectional @OneToMany association
+* a bidirectional @OneToMany association
+
+If you need more information you can take a look into: https://refactorizando.com/ejemplo-relacion-onetomany-hibernate
+
+== How does it work?
+
+This is a simple spring boot application so to run it:
+
+    mvn spring-boot:run
+
+
+
+
