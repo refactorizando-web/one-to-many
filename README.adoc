@@ -11,7 +11,10 @@ This is a simple example about the use of the OneToMany annotation. In this exam
 * a unidirectional @OneToMany association
 * a bidirectional @OneToMany association
 
-If you need more information you can take a look into: https://refactorizando.com/ejemplo-relacion-onetomany-hibernate
+If you need more information you can take a look into: 
+
+* Spanish: https://refactorizando.com/ejemplo-relacion-onetomany-hibernate
+* English: https://refactorizando.com/en/example-of-onetomany-relationship-in-hibernate/
 
 == How does it work?
 
